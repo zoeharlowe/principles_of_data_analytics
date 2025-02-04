@@ -1,5 +1,6 @@
 # Principles of Data Analytics
-by Zoe McNamara Harlowe
+by Zoe McNamara Harlowe.
+
 This is my submission for the assessment of ATU module Principles of Data Analytics
 
 ## Setup

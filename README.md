@@ -1,7 +1,7 @@
 # Principles of Data Analytics
 by Zoe McNamara Harlowe.
 
-This is my submission for the assessment of ATU module Principles of Data Analytics
+This is my submission for the assessment of ATU module Principles of Data Analytics.
 
 ## Setup
 
@@ -18,3 +18,10 @@ This is my submission for the assessment of ATU module Principles of Data Analyt
 - Github
 - Codespaces
 - Jupyter
+
+## Libraries used
+
+- Matplotlib (Pyplot): https://matplotlib.org/stable/tutorials/pyplot.html
+- Numpy: https://numpy.org/doc/2.2/
+- Scikitlearn: https://scikit-learn.org/stable/user_guide.html
+- Pandas: https://pandas.pydata.org/docs/

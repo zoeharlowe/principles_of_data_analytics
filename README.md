@@ -159,7 +159,7 @@ Principles of Data Analytics:
 
     [Statology article explaining the correlation coefficient](https://www.statology.org/correlation-in-python/)
 
-    [Matplotlib documentation on annotated heatmaps and the `plt.imshow()` method](See: https://matplotlib.org/stable/gallery/images_contours_and_fields/image_annotated_heatmap.html)
+    [Matplotlib documentation on annotated heatmaps and the `plt.imshow()` method](https://matplotlib.org/stable/gallery/images_contours_and_fields/image_annotated_heatmap.html)
 
     [ChatGPT to research the LinearSegmentedColorMap module for the heatmap](https://chatgpt.com/share/67ffaf4d-5d08-8000-acf8-bd59f1760cbe)
 
